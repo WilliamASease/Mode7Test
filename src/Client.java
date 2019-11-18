@@ -1,4 +1,4 @@
-//I'm going to rewrite all this with sensible design
+//I'm going to rewrite this with sensible design
 //And do something cool with the concept.
 //William Sease 20/31/2019 Hello
 import java.awt.event.KeyListener;
